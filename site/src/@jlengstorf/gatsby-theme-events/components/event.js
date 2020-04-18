@@ -1,5 +1,5 @@
 import React from 'react';
-import Event from '@jlengstorf/gatsby-theme-events/src/components/event';
+import Event from '@nativedone/gatsby-theme-events/src/components/event';
 
 export default props => (
   <div>
